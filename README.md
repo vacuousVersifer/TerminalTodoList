@@ -1,3 +1,4 @@
-# Todo-List
+# TerminalTodoList
 
-Just a simple Python todo list terminal app I'm working on. Might make it multifaced (Discord bot, website, desktop app, and/or mobile app. Just have to learn how to do the last two lmao)
+A terminal-based todo list to test out persistence in python scripts.
+Broken
